@@ -929,4 +929,8 @@ body {
   .text p:last-child {
     font-size: 22px;
   }
+  .fru1, .fru2, .fru3, .fru4 {
+ 
+  height: 200px;            /* <-- yahi problem thi */
+}
 }
