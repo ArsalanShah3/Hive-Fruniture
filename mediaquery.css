@@ -217,7 +217,7 @@
   }
 
   .furniture {
-    height: 250px;
+    height: 300px;
   }
 
   .sofa-container img {
@@ -240,7 +240,7 @@
   }
 
   .furniture-img-container img {
-    height: 250px;
+    height: auto;
   }
 
   .edition1-top,
@@ -355,7 +355,7 @@
   }
 
   .furniture-img-container img {
-    height: 200px;
+    height: auto;
   }
 
   .edition1-top,
